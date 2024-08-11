@@ -1,4 +1,5 @@
 Image Encryption Tool
+
 This project is a simple image encryption tool that performs basic pixel manipulation operations on images. The tool includes functionalities for swapping pixel values and applying basic mathematical operations to each pixel. It also features a web interface built with Flask for easy interaction.
 
 Features
@@ -20,8 +21,8 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/Karthikdude/SCT_CS_2.git
-cd SCT_CS_2
+git clone https://github.com/Karthikdude/SCT_CS_02.git
+cd SCT_CS_02
 Run the Flask Application
 
 bash
